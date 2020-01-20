@@ -1,0 +1,11 @@
+#Gene symbol	#Somatic	#Germline	Total
+TP53        	       8	        5	   18
+APC         	       6	        6	   17
+TERT        	       9	        1	   15
+DICER1      	       8	        1	   14
+BRAF        	      12	        0	   12
+KDM6A       	       7	        0	   12
+CUX1        	       6	        0	   11
+KRAS        	       6	        0	   11
+CTNNB1      	       5	        0	   10
+ERBB2       	       5	        0	   10
